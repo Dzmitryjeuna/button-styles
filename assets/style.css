@@ -7,7 +7,6 @@
 
 body {
     display: flex;
-    display: grid;
     align-items: center;
     justify-content: center;
     min-height: 70vh;
@@ -17,7 +16,7 @@ body {
 a.link-neon {
     position: relative;
     padding: 10px 30px;
-    margin: 45px 0;
+    margin: 45px 40px;
     color: #21ebff;
     text-decoration: none;
     font-size: 20px;
